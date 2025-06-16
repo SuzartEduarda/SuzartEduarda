@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Maria Eduarda Suzart, tenho 23 anos e sou natural de Barreiras BA. Atualmente, estou cursando ciências da computação em FACAP. Sou apaixonada por tecnologia e estou atualmente em busca de um estágio. 
+Me chamo Maria Eduarda Suzart, tenho 23 anos e sou natural de Barreiras BA. Atualmente, estou cursando ciências da computação em FACAPE. Sou apaixonada por tecnologia e estou atualmente em busca de um estágio. 
 
 ---
 
