@@ -14,11 +14,9 @@ Com background em Quality Assurance (Q.A.), descobri minha verdadeira vocação 
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" style="margin-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" style="margin-right: 10px;"/>
 <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="40" alt="BigQuery" style="margin-right: 10px;"/>
-<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" height="40" alt="Apache Airflow" style="margin-right: 10px;"/>
-<br>
-<br>
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Apache Airflow" style="margin-right: 10px;"/>
+<br><br>
 **Ferramentas & DevOps**
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin-right: 10px;"/>
