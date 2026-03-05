@@ -1,52 +1,14 @@
-# 👩🏽 Eduarda Suzart
+# Olá, eu sou a Eduarda Suzart! 👋
 
-**`Desenvolvedora Front-end`**
+### Aspirante a Engenheira de Dados | Estudante de CC na FACAPE
 
-Me chamo Maria Eduarda Suzart, tenho 23 anos e sou natural de Barreiras BA. Atualmente, estou cursando ciências da computação em FACAPE. Sou apaixonada por tecnologia e estou atualmente em busca de um estágio. 
+Atualmente focado em aprender como construir pipelines de dados escaláveis e eficientes na nuvem.
 
----
+- 🛠 **No momento trabalhando com:** Dataform, BigQuery e Cloud Composer.
+- 📚 **Estudando:** Python para Processamento de Dados (Dataflow) e Modelagem de Dados.
+- ⚡ **Curiosidade:** Adoro entender como a infraestrutura e o código se unem para criar soluções de baixo custo.
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SuzartEduarda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-    <br/>
-    <br/>
-</p>
-
+### 🛠 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
