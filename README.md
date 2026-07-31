@@ -17,7 +17,7 @@ Com background em Quality Assurance (Q.A.), descobri minha verdadeira vocação 
 <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="40" alt="BigQuery" style="margin-right: 10px;"/>
 <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="Apache Airflow" style="margin-right: 10px;"/>
 <br><br>
-**Ferramentas & DevOps**
+**Ferramentas**
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" style="margin-right: 10px;"/>
