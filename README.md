@@ -1,14 +1,20 @@
-Olá, eu sou a Maria Eduarda Suzart! 
-Estagiária em Engenharia de Dados na SantoDigital | Estudante de Ciência da Computação na FACAPE
-Com background em Quality Assurance (Q.A.), descobri minha verdadeira vocação na Engenharia de Dados. Uso minha mentalidade de testes para garantir a qualidade da informação enquanto construo pipelines de dados escaláveis e eficientes na nuvem.
+Estudante de Ciência da Computação na FACAPE | Entusiasta de Engenharia de Dados
 
-🛠️ No momento trabalhando com: Extração e processamento de dados usando o ecossistema Google Cloud (BigQuery, Dataflow, Dataproc e Cloud Composer/Airflow).
+Com background em Quality Assurance (QA), encontrei minha verdadeira vocação na Engenharia de Dados. Aplico o rigor e a mentalidade de testes para garantir a qualidade da informação enquanto construo pipelines escaláveis, orientados a eventos e com foco em arquiteturas de baixo custo na nuvem.
 
-🌱 Focada em aprimorar: Modelagem Dimensional (Fato/Dimensão), arquitetura Medallion (Raw, Trusted, Refined) e otimização de custos em queries SQL.
+### Meu Stack Tecnológico
+Google Cloud Platform: BigQuery, Cloud Storage (Data Lake), GCP Pub/Sub, GCP Dataform e Cloud Functions.
 
-💡 Curiosidade: Adoro entender como a infraestrutura e o código se unem para criar soluções de baixo custo e alto impacto para o negócio.
+Linguagens & Ecossistema: Python, SQL, Pandas e PyArrow (Manipulação de Parquet).
 
-### 🚀 Meu Stack Tecnológico
+Engenharia & Tratamento de Dados: Arquitetura Medallion (Bronze, Silver e Gold).
+
+Infraestrutura & DevOps: Terraform (IaC), Docker e GitHub Actions (CI/CD e Scheduler).
+
+Inteligência Artificial: Enriquecimento de dados e análise semântica via LLMs (Google Gemini API).
+
+### Diferencial & Foco:
+Especializada em unir infraestrutura declarativa e código para criar soluções automatizadas com governança de custos rigorosa (Arquitetura Zero-Cost / FinOps).
 
 **Dados & Cloud**
 <br>
