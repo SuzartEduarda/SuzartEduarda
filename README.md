@@ -1,11 +1,15 @@
 Estudante de Ciência da Computação na FACAPE | Estagiaria de Engenharia de Dados na SantoDigital
 
-Com background em Quality Assurance (QA), encontrei minha verdadeira vocação na Engenharia de Dados. Aplico o rigor e a mentalidade de testes para garantir a qualidade da informação enquanto construo pipelines escaláveis, orientados a eventos e com foco em arquiteturas de baixo custo na nuvem.
+Sou uma estudante de Ciência da Computação na FACAPE e estagiária em Engenharia de Dados na SantoDigital, apaixonada por programação e pela criação de arquiteturas de dados modernas e de alto desempenho. Vindo do universo de QA, aplico a mentalidade de testes para garantir que cada pipeline seja não apenas funcional, mas também escalável, organizado e seguro.
+
+Com foco no ecossistema Google Cloud (BigQuery, Cloud Storage, Pub/Sub, Dataform), trabalho com Python, SQL, Terraform e Docker. Tenho especial fascínio em unir infraestrutura como código a estratégias de otimização de custos (arquiteturas de baixo custo) e processamento inteligente de dados.
+
+Busco constantemente aprimorar minhas habilidades e aplicar as melhores práticas de desenvolvimento para entregar soluções de alto desempenho e valor real para o negócio.
 
 ### Meu Stack Tecnológico
 Google Cloud Platform: BigQuery, Cloud Storage (Data Lake), GCP Pub/Sub, GCP Dataform e Cloud Functions.
 
-Linguagens & Ecossistema: Python, SQL, Pandas e PyArrow (Manipulação de Parquet).
+Linguagens & Ecossistema: Python, SQL, Pandas e PyArrow.
 
 Engenharia & Tratamento de Dados: Arquitetura Medallion (Bronze, Silver e Gold).
 
@@ -14,7 +18,7 @@ Infraestrutura & DevOps: Terraform (IaC), Docker e GitHub Actions (CI/CD e Sched
 Inteligência Artificial: Enriquecimento de dados e análise semântica via LLMs (Google Gemini API).
 
 ### Diferencial & Foco:
-Especializada em unir infraestrutura declarativa e código para criar soluções automatizadas com governança de custos rigorosa (Arquitetura Zero-Cost / FinOps).
+Especializada em unir infraestrutura declarativa e código para criar soluções automatizadas com governança de custos rigorosa (Arquitetura FinOps).
 
 **Dados & Cloud**
 <br>
