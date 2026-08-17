@@ -1,4 +1,4 @@
-Estudante de Ciência da Computação na FACAPE | Entusiasta de Engenharia de Dados
+Estudante de Ciência da Computação na FACAPE | Estagiaria de Engenharia de Dados na SantoDigital
 
 Com background em Quality Assurance (QA), encontrei minha verdadeira vocação na Engenharia de Dados. Aplico o rigor e a mentalidade de testes para garantir a qualidade da informação enquanto construo pipelines escaláveis, orientados a eventos e com foco em arquiteturas de baixo custo na nuvem.
 
